@@ -22,11 +22,23 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
   <img src="https://github.com/andreaxlan/RobotSumo/blob/e1022f421a1cb862627559c27f78c3465e2bdb24/Photos/V4.0%20EXPLODED.png" width="600">
 </div>
 
+### 3.14.2026
+
+The revision of Kami V4.0 was completed. SOLIDWORKS has an insert part feature that allows parts to be inserted into part files as solid bodies, allowing for a streamlined process of combining the top plate and chassis. The line sensor hole was enlargened, and a wall was created between the DC motors.
+
+### 3.9.2026
+
+We decided to combine the top plate and chassis as one part. They were initially two parts because the top plate was covered in a honey comb pattern, making the interior of the robot inaccessible. With Kami's new hollow top plate design, this issue was resolved.
+
+### 3.5.2026
+
+The top plate and chassis of Kami V4.0 were 3D printed. Upon assembly, we noticed a signficant issue screwing the top plate into the chassis of the robot. Pressure from the screws was causing the back part of the plate to lift upwards so that it was not flush with the chassis or base plate. This presented a structural problem as well as a contraint problem as the robot was extending beyond the 10 x 10 cm bounding box in its starting configuration. I hypothesized the lifting of the plate was due to improper tolerancing of the screw hole relative to the back of the top plate. 
+
 ### 2.20.2026
 
-All CAD parts of Kami V4.0 are complete and assembled in SOLIDWORKS! 
+All CAD parts of Kami V4.0 were completed and assembled in SOLIDWORKS! The base plate will be manufactured on 1/8" steel using the waterjet and mill. I created the base plate drawing and DXF file to send for manufacturing. The estimated mass of the base plate is 170 g, which will lower the center of mass of our robot.
 
-
+<img src="https://github.com/andreaxlan/RobotSumo/blob/5b37417a8d499a918f8240cc3793b9baeb4b05a7/Photos/V4.0%20BASE%20PLATE.png" width="400">
 
 ### 1.20.2026
 
@@ -34,7 +46,7 @@ We decided to mount the PCB to the top of the robot using M3 standoffs. After ev
 
 ### 1.18.2026
 
-The initial chassis of Kami V4.0 was completed. The line sensors were moved forward, the orientation of sensors was readjusted to fan outwards, and the angle/posiiton of the servo motors was determined. 
+The initial chassis of Kami V4.0 was completed. The line sensors were moved forward, the orientation of sensors was readjusted to fan outwards, and the angle/posiiton of the servo motors was determined. To make assembly easier, the back plate and top plate were recombined into one part.
 
 ## Kami V3.0 
 
@@ -57,7 +69,7 @@ We had a mechanical design review today and recieved the following recommendatio
 
 ### 11.13.2025
 
-The physical robot was fully assembled for the first time with electronics! Kami V3.0 includes minor adjustments of parts. We tested separating the top plate from the base plate and adding a lip on the connectors to prevent sliding in horizontal and vertical directions. While motion was restricted in one direction, friction alone was unable to prevent parts from disengaging in collision. In addition, tolerancing issues persisted with the distance sensors which was temporarily fixed with tape so programming could test the robot.
+The physical robot was fully assembled for the first time with electronics! Kami V3.0 includes minor adjustments of parts. We tested separating the top plate from the back plate and adding a lip on the connectors to prevent sliding in horizontal and vertical directions. While motion was restricted in one direction, friction alone was unable to prevent parts from disengaging in collision. In addition, tolerancing issues persisted with the distance sensors which was temporarily fixed with tape so programming could test the robot.
 
 ## Kami V2.0
 
@@ -65,7 +77,7 @@ The physical robot was fully assembled for the first time with electronics! Kami
 
 ### 11.1.2025
 
-Kami V2.0 is split into three parts: chassis, base plate, and top plate. The top plate serves as a mounting plate for the PCB and features a honey comb pattern for wires to pass through. I noticed electronic parts would be difficult to assemble, so the chassis and top plate became separate parts held by friction. Line sensor holes were added to the bottom and distance sensor holes were added to the front. The base plate was CADed separately by another mechanical sub-team member, so this model does not include a separate base plate.   
+Kami V2.0 is split into three parts: chassis, base plate, and top plate. The top plate serves as a mounting plate for the PCB and features a honey comb pattern for wires to pass through. I noticed electronic parts would be difficult to assemble, so the chassis and top plate became separate parts held by friction. Line sensor holes were added to the bottom and distance sensor holes were added to the front. The base plate was modeled separately by another mechanical sub-team member, so this model does not include a separate base plate.   
 <br>
 After 3D printing Kami V2.0, we discovered tolerancing issues with the distance sensors which would require adjusting the CAD model and reprinting.
 
