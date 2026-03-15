@@ -17,11 +17,24 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
 
 ## Kami V3.0 
 
-<img src="https://github.com/andreaxlan/RobotSumo/blob/8b14877b22c821ebc48d38b5ade597927aa1d290/Photos/V3.0.png?raw=true" width="400">
+<div style="display: flex; gap 10px;">
+  <img src="https://github.com/andreaxlan/RobotSumo/blob/8b14877b22c821ebc48d38b5ade597927aa1d290/Photos/V3.0.png?raw=true" width="400">
+  <img src="https://github.com/andreaxlan/RobotSumo/blob/100226e4ce28deda03770038b2d2b2927b6cf8ef/Photos/V3.0%20TOP%20PLATE.png" width="450">
+<div>
+  
+### 11.20.2025
 
-### 10.10.2025
+We had a mechanical design review today and recieved the following recommendations:  
+<br>
+➣ Current set up of sensors is redundant, sensors should fan outwards to maximize range  
+➣ Underside of back plate shouldn't be a 90 degree angle since opponent blades can slide underneath  
+➣ Chassis needs to be shorter so robot blade can hang  
+➣ Line sensor needs to move forward to prevent delayed sensor response  
+➣ Parts should be assembled using screws   
 
-Kami V3.0 includes minor improvements in assembly
+### 11.13.2025
+
+The physical robot was fully assembled for the first time with electronics! Kami V3.0 includes minor adjustments of parts. We tested separating the top plate from the base plate and adding a lip on the connectors to prevent sliding in horizontal and vertical directions. While motion was restricted in one direction, friction alone was unable to prevent parts from disengaging in collision. In addition, tolerancing issues persisted with the distance sensors which was temporarily fixed with tape so programming could test the robot.
 
 ## Kami V2.0
 
