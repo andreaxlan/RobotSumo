@@ -1,4 +1,4 @@
-# Robot Sumo - Team Kami
+# Robot Sumo
 
 ## Project Overview
 
