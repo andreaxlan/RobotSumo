@@ -22,6 +22,19 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
   <img src="https://github.com/andreaxlan/RobotSumo/blob/e1022f421a1cb862627559c27f78c3465e2bdb24/Photos/V4.0%20EXPLODED.png" width="600">
 </div>
 
+### 2.20.2026
+
+All CAD parts of Kami V4.0 are complete and assembled in SOLIDWORKS! 
+
+
+
+### 1.20.2026
+
+We decided to mount the PCB to the top of the robot using M3 standoffs. After evaluating the minimum space required for the arms to retract into the 10 x 10 cm bounding box, I determined the maximum size of the PCB to be 75 x 49 mm. The SOLIDWORKS evaluate feature estimated the mass of the complete assembly to be approximately 410 g.
+
+### 1.18.2026
+
+The initial chassis of Kami V4.0 was completed. The line sensors were moved forward, the orientation of sensors was readjusted to fan outwards, and the angle/posiiton of the servo motors was determined. 
 
 ## Kami V3.0 
 
@@ -29,6 +42,8 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
   <img src="https://github.com/andreaxlan/RobotSumo/blob/8b14877b22c821ebc48d38b5ade597927aa1d290/Photos/V3.0.png?raw=true" width="400">
   <img src="https://github.com/andreaxlan/RobotSumo/blob/100226e4ce28deda03770038b2d2b2927b6cf8ef/Photos/V3.0%20TOP%20PLATE.png" width="450">
 <div>
+
+
   
 ### 11.20.2025
 
