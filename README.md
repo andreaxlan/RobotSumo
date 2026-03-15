@@ -17,15 +17,15 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
 
 ## Kami V3.0 
 
-<img src="https://github.com/andreaxlan/RobotSumo/blob/8b14877b22c821ebc48d38b5ade597927aa1d290/Photos/V3.0.png" width="400">
+<img src="https://github.com/andreaxlan/RobotSumo/blob/8b14877b22c821ebc48d38b5ade597927aa1d290/Photos/V3.0.png?raw=true" width="400">
+
+### 10.10.2025
+
+Kami V3.0 includes minor improvements in assembly
 
 ## Kami V2.0
 
 <img src="https://github.com/andreaxlan/RobotSumo/blob/994e723dd7dec08882a990ae7427d056e11128f2/Photos/V2.0.png" width="400">
-
-### 10.10.2025
-
-Kami V3.0 includes minor improvements in 
 
 ### 11.1.2025
 
