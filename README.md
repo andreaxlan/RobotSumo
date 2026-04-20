@@ -15,6 +15,8 @@ Robot Sumo is a combat robotic oriented sport where autonomous robots fight to p
 
 # Timeline
 
+Testing Kami !!! https://youtu.be/m7gFkqn56gE
+
 ## Kami V4.0
 
 <div style="display: flex; gap 10px;">
